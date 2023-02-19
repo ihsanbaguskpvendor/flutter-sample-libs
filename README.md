@@ -4,12 +4,12 @@ A new Flutter module project.
 
 ## Getting Started
 
-#BUILD AAR
+# BUILD AAR
 ```bash
 flutter build aar
 ```
 
-#SETUP EXISTING PROJECT ANDROID
+# SETUP EXISTING PROJECT ANDROID
 - setup `build.gradle` file at `app` level
 ```groovy
 android {
@@ -48,7 +48,7 @@ dependencies {
 }
 ```
 
-#ADD TO SCREEN
+# ADD TO SCREEN
 - Add the following XML to your `AndroidManifest.xml` file under your application tag:
 
 ```manifest
