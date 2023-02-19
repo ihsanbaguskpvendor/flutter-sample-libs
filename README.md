@@ -5,11 +5,7 @@ A new Flutter module project.
 ### Getting Started
 - clone this project
 - run `fluter pub get`
-
-### BUILD AAR
-```bash
-flutter build aar
-```
+- build AAR `flutter build aar`
 
 ### SETUP EXISTING PROJECT ANDROID
 - setup `build.gradle` file at `app` level
