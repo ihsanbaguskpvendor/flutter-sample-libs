@@ -2,7 +2,9 @@
 
 A new Flutter module project.
 
-## Getting Started
+### Getting Started
+- clone this project
+- run `fluter pub get`
 
 ### BUILD AAR
 ```bash
